@@ -15,3 +15,7 @@ What will I do today?
 
 What are my blockers?
 - putting image in the code
+
+End-of-day Checkout (<img width="601" height="471" alt="image" src="https://github.com/user-attachments/assets/60e87cf6-73b8-4c2f-9054-c16c91b4a988" />)
+(<img width="845" height="631" alt="image" src="https://github.com/user-attachments/assets/32a46e3b-a537-4ee8-a651-90b8ee7249ec" />)
+Description: we customize and design our own ai-chatbot ( wireframe concept )
