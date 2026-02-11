@@ -36,6 +36,6 @@ What will I do today?
 What are my blockers?
 - using figma to edit. for me it's hard to use, since it is my first time to use it
 
-End-of-day Checkout (<img width="601" height="471" alt="image" src="https://github.com/user-attachments/assets/60e87cf6-73b8-4c2f-9054-c16c91b4a988" />)
-(<img width="845" height="631" alt="image" src="https://github.com/user-attachments/assets/32a46e3b-a537-4ee8-a651-90b8ee7249ec" />)
-Description: we customize and design our own ai-chatbot ( wireframe concept )
+End-of-day Checkout (<img width="1919" height="960" alt="image" src="https://github.com/user-attachments/assets/304bbfe8-b724-4e8e-a6b6-bd4925b97941" />)
+(<img width="764" height="857" alt="image" src="https://github.com/user-attachments/assets/d64f72e7-2b43-4b13-b04d-b54e97d694bb" />)
+Description: Finally we create our own chatBot. We code and deployed it.
