@@ -39,3 +39,21 @@ What are my blockers?
 End-of-day Checkout (<img width="1919" height="960" alt="image" src="https://github.com/user-attachments/assets/304bbfe8-b724-4e8e-a6b6-bd4925b97941" />)
 (<img width="764" height="857" alt="image" src="https://github.com/user-attachments/assets/d64f72e7-2b43-4b13-b04d-b54e97d694bb" />)
 Description: Finally we create our own chatBot. We code and deployed it.
+
+
+
+Morning Stand-Up:
+Date: 2/11/26
+
+What did I do yesterday?
+- We create our own chatBot. We code and deployed it.
+
+What will I do today?
+- finalize the code and make the another page (page one) for chatbot
+
+What are my blockers?
+- debugging the code, connect it into API, and Deployed the chatBot
+
+End-of-day Checkout (<img width="1919" height="960" alt="image" src="https://github.com/user-attachments/assets/304bbfe8-b724-4e8e-a6b6-bd4925b97941" />)
+(<img width="764" height="857" alt="image" src="https://github.com/user-attachments/assets/d64f72e7-2b43-4b13-b04d-b54e97d694bb" />)
+Description: Finally we create our own chatBot. We code and deployed it.
