@@ -78,3 +78,22 @@ End-of-day Checkout (<img width="1915" height="957" alt="image" src="https://git
 (<img width="401" height="876" alt="image" src="https://github.com/user-attachments/assets/937f7a61-5a8f-4642-bbc8-65089d31cb33" />)
 Description: Finally we create our own chatBot. We code and deployed it.
 
+
+
+Morning Stand-Up:
+Date: 2/11/26
+
+What did I do yesterday?
+- uploading the ChatBot
+
+What will I do today?
+- prepairing for presentation 
+
+What are my blockers?
+- panelist in our presentation
+
+End-of-day Checkout (<img width="1915" height="957" alt="image" src="https://github.com/user-attachments/assets/91390729-c7f9-46ec-811e-bd58bca83b44" />)
+(<img width="1901" height="948" alt="image" src="https://github.com/user-attachments/assets/e05d99b0-be3f-4322-9d09-58ff1e2bde27" />)
+(<img width="401" height="876" alt="image" src="https://github.com/user-attachments/assets/937f7a61-5a8f-4642-bbc8-65089d31cb33" />)
+Description: Finally we create our own chatBot. We code and deployed it.
+
